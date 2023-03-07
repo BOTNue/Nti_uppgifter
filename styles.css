@@ -1,6 +1,32 @@
+.changeheight {
+    height: 100px;
+    width: 100px;
+    margin: 10px 0 10px 50px;
+    border-radius: 50px;
+}
+
+#changeheight:hover {
+    opacity: 0.8;
+}
+
+#increaseheight {
+    background-color: green;
+}
+
+#decreaseheight {
+    background-color: red;
+}
+
+#resetheight {
+    background-color: yellow;
+}
+
 #A4 {
     background-color:  cyan;
     height: 3508px;
     width: 2480px;
 }
 
+#poao {
+    height: 500px;
+}
